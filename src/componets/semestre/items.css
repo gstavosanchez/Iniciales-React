@@ -1,0 +1,13 @@
+.semestre-item {
+    margin-right: 20px;
+}
+.curso-item {
+    width: 300px;
+    height: 70px;
+    padding: 3px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: 0.3s ease all;
+}
